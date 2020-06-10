@@ -2,148 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0dbd755-3317-45d8-95d5-ffcd16ec0444" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/dist/Vue/Vue.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/dist/Vue/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/dist/Vue/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/10.18059584.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/11.c9bd139e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/12.147a2e37.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/13.5b462613.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/14.acde6fb7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/15.cba6a481.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/3.9e901989.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/6.59433abe.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/7.bc38efe5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/8.0ff25655.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/9.928b4098.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/dist/bar/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/dist/bar/one.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/dist/bar/two.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/dist/foo/fads.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/dist/foo/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/dist/foo/one.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/dist/foo/two.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/Vue/Vue.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/foo/fads.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/00/e0/8befba7d0ec2a9cdf5513974a4283e86fc9575bb25623c364e57342fc40014391feede240dbe1f462927541508880ab5cf4796fb8832ecaf84ba0092ce34" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/12/ac/c6bc9a56796cea88526fd68cf4b96680dd088eec7fed5b6df4373de263b80ebdd28931d8d47d846fa1665fd06b44e4dc7847edab66570e140a0c79bde92f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/14/b5/eb37b53ef0d101f4873a2a29e9ab1ebdb1f93bf8764e823cad09bd3059c1f2a92ecce416c9e5a3ee877df71b3858d585e2c6a905f40c6a540b8a1993494a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/15/6f/e1cf0a40e2cefac47eb368bb4dd87f86aba6b3039f00eaf72aff243def5cf758f2a3938be25adacbb54dd5fdcf18682c5c9d671f811b0b6f51b873503a55" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/22/85/d28a7b379443fab58c222b3d547c8851f538149fad673823e4cce0642d3d7decf0338ee02fa8dbec8a8bbf7b442bb84083e80f82f5cc79d7b461a007b2c9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/23/7e/dbe18d83cf04257d03bc0b542ea4b2c8dd038f3cbdac60b9cc82560724c29a8e8b51d62a7e3a1239cf5213a4d25aa893367644632dedff2ad98e95e21562" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/2f/4b/447eae803cecc1c966b5c4d82fb40e4dadd6d9577d5c0f89590b19e6edb5b3c799f398594a6f944924cecdc008aa00e3b3606f4de76a883ceb3a1fe185d0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/32/89/20c3d08347b9294ea9a3d28306b95876b3759143ffda4e791411c503655c8d374b3909a26a6319f2e002caff5ac2d2dc7ba7ea46368ad012297bab3b64e6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/35/7e/a312f31b66e5a5b9594821fcf3351f337ebb44d551ec25d642155a14d17e561fa2dea1157bdf42c32bb4e4c461eda1ca36017d058f86f9bfa18a35b97070" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/3f/36/f2f6e2e9b083113ab7651114e27b1534855012f40160a5d5c8e39b85f3667241239e2ed64830cb23eb35b2834102ef0eab5dcf627212f2a886e79005d139" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/4a/15/fa00a603a961f455d097c7f810d5f361507370d3a215c03428ae66e9730a68b2c90eca9939fe8447b5c0c06e0d19374e0ebe32d2272896728de839a518e8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/4c/7d/961b0f04bb798780f1a988359e0f913ccf7c20e39f98a41b24c0adeade2436fdb3146c4a5b84aa719796af7b73a3bb67398ed3679ec34deb94fae3df0c38" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/51/ca/c0116ef3891c3d347c4a6fe0a0936d30b4aef43ef1e532ae559b07c37d2d9fffe6cce2e2980bf8018db06db8e79d9210b54ba1c1a200b93b1198990f08dd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/57/18/faed83c0e56f9e5b4081f837687c785f4a4fa63500b5f10f459ae3f1d3da883dbc69e996e05f205c8281a4e5ca0d134afc346011896ab077a8145ac30af5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/65/78/b266edd695a112343aad944ff2e6ffc38c5c3be067e8676c2a0a3db514b188181bf81b934ae12cfa06d0b6983d11d422391eae0c6214090d994a8a697aeb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/73/21/dcd611a8e326b556dec24f972f2813b5a9975868ad53eb9c5be177664c13bdbfddadb9c78f7029dc7acbdbd014d3ab95dc30eeec8d70c2fb1fd4fff5e76a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/73/5c/dec7a186806164d4698a27453942ad34be1d205b1e1ecd089378b9ef9d52d78991f56c7a3c5471c8861bbcef2903fa7fc3f38fead6584723c5d0ad368a47" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/74/ae/76936838370f2e79617e3092554384bbcb7e966acc4c857e5ade497b9f8260373de1b6ae16c50201208ff8bded8a8c5547f3ade02a52d841229c53ccbd6c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/7a/18/87a5090bd24b0ca3604f719a6709fabb23371976acc6f65211b789ce3b35d92d1084a37e1b6df5fe3a625a07322eb6537344a383a27d379d12873b7e02ed" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/7e/3e/ac538aa3c80f8ad2cb810a84d549f6b38027e8c3fe7f416ce57e63f9d373e95229838ee7de1a1edd756f53e82a88b5bcae09d0d4578967c1a17eb6a94349" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/82/64/f89c19e7f1a2a3c6f35d060ad7b5cb5c07f0bd7c30f84c971b7dec13f3be05e4325e92607012890c81ba22afd063db853cddd9aef339afe39baf014c0551" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/83/08/ef5749954941e7f33a7e2a2d9f8fe69b269eea7c16a4a42bc6b85461d6a120caa91a745c702fe8e05f77e3bedcb12638621e1b45cb9ef07459ad78ea05ae" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/88/67/7eda953770e40104e8800ae7da98ae96154ce08df40073d86d0c691d5e6a5bade61d7ac5155c65806e42efcfcf69d413130187aab75f570af4510946314f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/91/63/d897aca7f197ea2e0b386cb264cdb740330d87f5f992e0313c390319dd4cd4455fac06cb75fcc78230f507f4e0ac4c38c0a7a5eefe82db4d94f995981c4e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/99/af/b10f77418a27788a514a697b623481b5e356c8b6cecbeb1187bd90b519b1994061d5b4749397e81eb13721741e99fb0b4a5cd58f23d757dbb65dba89e654" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/9e/78/2fbba457b37b4f412b9bc1537bb964c6619e7ba4a39f1f59746dfa6c8561e14c5304f248ff747d87b22fe5c447f254eed54cc4a7edeb5d3f69a09b30a259" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/9f/4d/7666294e25cf70d05e0437fbae2b275908dff6db8cf65189c6e9627e1cf0592233b9158c1651d15c8d988e31f08748c6eae072e79910d1b07fa5a3b608c5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/a6/2b/eea58c2eb30abb0d113714bf94c7ab2a4f822df77283ef60452168b46fbc51db6d9efa8bd4b1ee75b938514affd99d19c21eefc1bd594b60f3778a3b7561" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/a8/b2/3b57260ffb91df2166f01bb771653df8c621e1f44cf9c52750897b7756631ebd46a9df2e095c48cb84b80a35cdc6d97931b38c7708303f64f1d84a5c4e11" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/b2/e2/7239c2e83b17be9df10898a115b46bb73de341b2b69aa170cfa06bb7d838a8d65d398753edc40efc9bf6c34b4e9bb734290464ea8549178d8462134b00ef" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/bd/2e/9da85c42cc6f19cacdb922e54656a42abb5a7d9f9a79b64007c02c1b2a3bcefb53497e4eaee914179594515c148faa23aa703f6f42284233d5b5b89e636f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/c3/ac/5b2914fce04572d184d4ad98e46e1b0c7c96bfd2544bef165555eb8513144ed7e4fbf92072918fa931ba026e43236572cde694692ba611aa24991b0cf5ef" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/c5/ef/192d2b2edd397772e70dc789759a7f0aa84a5d2aea254771414c82f8e30442c00ed532f07d77b457243709bdb2e000fc23ece724e5d680edb77ade6764f0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/c8/0c/22d80b2977272f1f07ae4cddd1f8c1d7bfd6424de18ad582c88400f6fa57b0874dff05efc58c522a273f8e91c78f7e50c92cd470dfbb5884a9e427381da4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/c8/0d/6ee335c8b1a14231c0a23018159d27d1e63839c78eb59beaaf4165ed4205d84a173b379d2061120bfcc91e6a8f896394d6ee0f38d220bceeabdc380442b4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/c8/32/e834ac6eed4e0a004c80fdff0632b517826d7f6d470bf965c69f5f00bb79c9e6ec55ebb4bc814d077b4528cac297be1ce485d9f2b8b98aea0d631884d996" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/cc/93/d04170de872a14573827f13b198a4521bd298e92a9d9a211075b8783cc4ceb985d5af8b3a7c2310c732a5ec6e1e682f220521b35f5d8a22dc3a94ca615a2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/ce/3e/96de2904c8a5d08a77ce9faf7c942b3261e0549cb3aae38125a463d5bee6259743fce3ee29b395cb16c0494074211b1e7008bf3eabae387e11a29bf1624c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/dd/50/eb08e09a5bf9278c196ccea4104c325d1532edf665cde5eab45d3ecadf1ee05d188449eda112fa5e6eafcecd70e2e7ea2e787fc2cdd836f0c37dbfa5a568" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/e0/c6/cd3d7d4ba0f4637ee4fe5a5fdc8c3747297a2a6f4ab9ebf4ff276d257b47ff4e0dec3defb4875d12c0cc8c600436759cde406c47ee451e39fc3069800ef9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/e8/6d/c35ff1faf546a4e6eabc49c0c1356b02c2190645c41a2f3bc592dec4cfab81cc661e6a8ba3b91399e51bae166c9d5b3e4743d3826b984a1cb9e996f64b0a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/eb/83/0fbd4534d7bf21ac077474e0205132229c1fc41fc77d7d25f90f75ff15bf22b307e2bf2616f417125b890e61441700316c76a3248a1a069fb755c4da8322" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/f4/53/556e3569c82663966396dabd0b109ed508b576a2423e71125da693523ca498222a0c6ab5154c24b9da5905abb8a6bf11917c0d6eafb67154e1407ee7a35c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/f5/1b/46e2f67844b12a05b4a52fb809fe29ee37774fc369fb4d75846d40bf27c7e25bdf037b600031a70994695377b69dde1f3c3e49efa2045e4ba081fe8c2c48" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/f7/27/121f5d4241b41bd280e21780afbe5b2a6d7dc0e49d09781100bb06dac9468c1c40e9d66fe7099c48ed17bf531717285c2d537c262e0fe6870bf3c6d51c3b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/f8/ce/af93279a12619d75f8f658eb846c88959467f774438a3014aa2ff8caba49a9bf022e5a9137c86427f0774f18a910564c889ca6bb61ce88d2db3628c6ca30" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/fd/f5/79b4d9d5858e803fb03cad171f1f27396b00cdcd12a3ba4deafe962a8a4dd2920e64c59d32200954c3341b843591a4dedfcfc78b2c89a81e739c67c75123" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/01/15/9f87ba2f277c1565f14a3cdd942484e09af5ca65d823efbf85836990d13a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/07/bc/c69baf31096e4fac0f1afec0aaf4451b54d649c8265beae123f23e1d7a23" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/0d/84/8da4c6a0091735bf828738fee1f3c0c74c2786e73c56c6073bf9e964a34e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/19/34/c1976715930004d657b771e40468beebe0220ade7c6db99c8dabebc9a853" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/19/ef/86a8018d43cb7558ba28157b1b062d59135e02e8944300896f8e765412cb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/1c/55/bc2316afa5e215bd5ad1328f5aa70e0be37972cf8d1b223121bd8d4ace73" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/1e/9e/1747a52a0439ffb8c108aeb1af30063484bfcf18f089e51218dd14159d09" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/21/d6/b1104b4da0d5cb7146cabdbe1a1af7536023c5362ec986a23cf0740fe923" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/2e/39/d258a04e7220540a0f3591d24d6b68bedccbdcd9ec5a99300beddf73c9ed" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/36/e1/f17b53e68d6ad025dd822ac30ea76177554e53a03128d0e1d58a48f4f40b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/37/1a/1d8ba65ef28488b7caf48c5bd19bff67baf99084016df3b0808c84f6eba0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/37/a7/47aa7cc8bdd7cc0d9f3eff87c3473971f5ed85a1c235bc39eb9ec726a965" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/38/db/99e3e7cd29c2ee62c6e24ad303a6b1ddfb2d9c6bce8cdb56b8fa945b1386" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/3c/7b/a39cb88f8887ec6c23b8efcc767a8aef75a5864f87e86ee50944886860ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/4e/0f/a85c01d0f80f54fff5045d6e83529e37812dd25eb79bb0b477a3e85d9b45" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/57/f4/954eb2b80f2ca4ad7db2ae9c8d7547e78bc9bc54e69493391d5df11ae926" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/58/20/8aac311d4546b39a5c6f65dda9ae3b7dd3b08fa3e844ed7a21f380fc32c2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/5d/a1/9d593e14e80513628545d63c66b019788e06357f63eee7aeadac51d591f7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/65/fc/76679e1ab301944dbac409c55efea6534dc73943ad85d338aa84995340c0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/68/d9/9f9056793a9ee07b3c00dd8af0c69ddc55e4d61e103459808b3af80a6ae8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/7a/44/f2412808dadb6d797ef50f0c4cd51a98eba1050f23ba0850c4788a57f688" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/7d/92/9208821cdc98f73c443c642c3bd2043fe17fd5b4a131f496f1f9d96394e2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/7f/08/4c07b1ba533e8c97b805922507444f63d8485b3e60f725c9f1009b957d90" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/86/17/6f2f2bb1c36670f4ca0114a9cda9028d37f5cbe6b993b2559787522ef584" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/8c/c4/fe9fb1b38bbedb1ade4d8da1fc34621cd74d3940d824fa1ceb2e3f487d78" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/90/b5/f40a52d71726fc7d5c026bd5f8c73bf5340b40c0c29ec056af7dc0835ed6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/94/a9/4a69d55cc7d5e99887a4c48827799ef9a5235e799c51d517d9393644fbeb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/9e/e4/30ddde5bf501c56c2e325baeb91435cb2cf2c66d2f3735252d58326c9c2b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/a4/54/d793abbf5e1e6167e926e38f0d7023954a01a6df495e805565770324d40b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/a7/7a/76ba45703b514376d378e6914d67c27a0b3300fa1c33718a528fb87a2fdc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/ab/09/3e21656c638de3190b1f518502b9f779493505758e7a2606b853b3639729" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/ab/da/befe7c3b28072ccd4efb09b78301bfaaff26baf4a74c4cff2d3532b20af0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/b3/32/954129283287b469b364b3812db1498d2037a1582633637009bb4f104572" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/ba/44/cf8dec2914e919f193e39a59124dac2a0ac0f6ac01eceee9c5f6d8529c95" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/ba/cd/40d9f43957ae0670f36fd4c219a18147560cd9473263b543e2ad13d97810" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/bd/a5/413a8aa02a04da67bfc69a0c2c2d3ef50d9a46e63f5b0238d18659e9b8ed" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/c4/02/51c3a656664652fb0e0343f647bfff4090787e92b9dd5fbb59fecc3eab36" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/ca/71/ce05b89f5ce3039429f673311071a29e6be26c09bfb6263e25f68d97cd72" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/d5/68/0aef6382f9833345b82077fc9359eeb5d6b3dee7a0238646ff8a871cd453" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/d8/a7/31b3937cc2321f9049da4432d6a9498a0c6a44e903881036a480c415add2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/dd/4f/4b6c25261895ae4d9a9748a3cad8cd3041b17d4a714bc81639f7f9f888e1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/df/a9/0260dd5f37d574c2353249925096d85de802ed3f8ca57b5a0996f562c13d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/e5/64/622f54fa696eae7dd37ef7ff72c90f0268d0a9998eebcb08ef8834a8da66" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/ed/5f/98103f0f9fdb6b922e4b1931b288ef238a4b7c9959459a71734e23a2f786" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/ee/80/6010c6ee199915f1bb9e017f159ba960439460db45e928fcde3b7a80cff1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/f7/53/33c82619c9355441930e6d8a40750c9a2ba1dd8da24ec23a2df860d3ccaa" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/fc/57/3e812c0c934d94fa237a46ce1efbadd128f3470dae547639c23f7db054fb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/css/0.styles.0295ca59.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/assets/css/0.styles.912360c0.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/2.fec3e57f.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/2.8c1e7ee0.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/3.05b3a05a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/4.2dad2c87.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/4.5c2c6741.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/5.47a42d76.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/5.5c3548e6.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/6.5fe67d29.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/7.e678084b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/app.a3e093ef.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/app.756c7184.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/config.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/guide/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/img/logo.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/img/logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/img/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/img/logo.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/img/logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/guide/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/guide/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Vue/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/guide/contact.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Vue/contact.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -169,13 +28,13 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gif" value="1" />
-          <entry key="gitignore" value="1" />
+          <entry key="gitignore" value="2" />
           <entry key="html" value="9" />
           <entry key="ico" value="1" />
           <entry key="jpg" value="2" />
           <entry key="js" value="9" />
           <entry key="json" value="3" />
-          <entry key="md" value="17" />
+          <entry key="md" value="18" />
           <entry key="png" value="2" />
           <entry key="yarn-integrity" value="1" />
         </counts>
@@ -186,12 +45,12 @@
           <entry key="Image" value="6" />
           <entry key="JSON" value="3" />
           <entry key="JavaScript" value="9" />
-          <entry key="PLAIN_TEXT" value="19" />
+          <entry key="PLAIN_TEXT" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="gitignore" value="20" />
+          <entry key="gitignore" value="25" />
           <entry key="html" value="6" />
           <entry key="js" value="403" />
           <entry key="json" value="6" />
@@ -203,7 +62,7 @@
           <entry key="HTML" value="6" />
           <entry key="JSON" value="6" />
           <entry key="JavaScript" value="403" />
-          <entry key="PLAIN_TEXT" value="646" />
+          <entry key="PLAIN_TEXT" value="651" />
         </counts>
       </usages-collector>
     </session>
@@ -243,10 +102,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/Vue/contact.md">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="10" />
+            <state relative-caret-position="450">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -274,11 +133,20 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/Vue/Vue.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
               <caret line="127" lean-forward="true" selection-start-line="127" selection-end-line="127" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -439,12 +307,12 @@
       <workItem from="1590983038810" duration="4399000" />
       <workItem from="1591059379489" duration="1223000" />
       <workItem from="1591768520495" duration="2109000" />
-      <workItem from="1591774145778" duration="9245000" />
+      <workItem from="1591774145778" duration="9474000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27941000" />
+    <option name="totallyTimeSpent" value="28170000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -472,7 +340,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32913166" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32929516" />
-      <window_info active="true" anchor="bottom" x="1407" y="383" width="1500" height="566" id="Terminal" order="9" sideWeight="0.49905956" type="FLOATING" visible="true" weight="0.40859032" />
+      <window_info active="true" anchor="bottom" x="1496" y="311" width="1500" height="566" id="Terminal" order="9" sideWeight="0.49905956" type="FLOATING" visible="true" weight="0.40859032" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50094044" side_tool="true" weight="0.32488987" />
       <window_info anchor="bottom" id="调试" order="11" />
       <window_info anchor="bottom" id="TypeScript" order="12" />
@@ -522,13 +390,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="5" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -616,17 +477,24 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/Vue/Vue.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="127" lean-forward="true" selection-start-line="127" selection-end-line="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
         </state>
       </provider>
     </entry>
